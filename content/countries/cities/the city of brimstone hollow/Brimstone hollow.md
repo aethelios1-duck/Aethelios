@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-13T23:51:40.222Z
-modified: 2026-10-14T01:04:49.332Z
+modified: 2026-10-14T18:26:27.475Z
 ---
 
 # the map of Brimstone hollow.
@@ -22,9 +22,9 @@ the city of brimstone hollow was built in two sectors the residential sector and
 
 at the year 1333 AD, the homeless problem in the city of brimstone hollow got out of hand, so it resulted in the building of the slums outside the north gate of the outer wall.
 
-at the year 1291 AD, the commercial Harbor was opened of the public so they may travel and fish as they wish, it was sponsored by the Key family and they held the status of harbor master.
+at the year 1291 AD, the commercial Harbor was opened to the public so they may travel and fish as they wish, it was sponsored by the Key family and they held the status of harbor master.
 
-at the year of 1291 AD, the business harbor was opened to import and export things from and too the city. it was financed by the government so there isn't any harbor master over it.
+at the year of 1291 AD, the business harbor was opened to import and export things from and to the city. it was financed by the government so there isn't any harbor master over it.
 
 in the mining sector there is a massive hole in the ground known as "the abyss". at the year 1355 AD the adamantine dried up for unknown reasons.
 
