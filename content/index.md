@@ -1,8 +1,14 @@
 ---
 publish: true
 created: 2026-10-13T20:36:22.915Z
-modified: 2026-10-14T01:10:49.760Z
+modified: 2026-10-14T17:32:49.419Z
 ---
+
+# welcome to Aethelios
+
+---
+
+#### a world of gods, magic and dragons. where anything is possible if you put you mind to it.
 
 # the Aethelios map
 
