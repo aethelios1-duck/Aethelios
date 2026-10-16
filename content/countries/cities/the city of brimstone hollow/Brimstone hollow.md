@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-13T23:51:40.222Z
-modified: 2026-10-14T18:26:54.542Z
+modified: 2026-10-16T20:01:38.576Z
 ---
 
 # the map of Brimstone hollow.
@@ -36,7 +36,7 @@ when the plague started the village of nightshade was built by the ratfolk in th
 
 ---
 
-- the church of Apollo
+- [[the church of Apollo]]
 - the residential sector
 - the mining sector
 - the abyss
