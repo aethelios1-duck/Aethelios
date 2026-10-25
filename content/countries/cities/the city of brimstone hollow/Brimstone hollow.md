@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-13T23:51:40.222Z
-modified: 2026-10-25T01:00:26.761Z
+modified: 2026-10-25T01:24:52.703Z
 ---
 
 # the map of Brimstone hollow.
@@ -26,7 +26,7 @@ at the year 1291 AD, the commercial Harbor was opened to the public so they may 
 
 at the year of 1291 AD, the business harbor was opened to import and export things from and to the city. it was financed by the government so there isn't any harbor master over it.
 
-in the mining sector there is a massive hole in the ground known as "the abyss". at the year 1355 AD the adamantine dried up for unknown reasons.
+in the mining sector there is a massive hole in the ground known as "the abyss". in the year 1355 AD the abyss was dried up because of over mining by the residents of the city.
 
 in the year 1355 AD, a plague started spreading through the slums of brimstone hollow for unknown reasons. at the year 1357 AD it was discovered by some people that seemingly the plague is reanimating the corpses of the people who were infected by it. the church of Apollo knew of the undead effect of the plague much earlier and did some tests on some undead and they are theorizing that the reason the corpses get reanimated is not the plague but a large amount of mana being poured into it, the source of the mana is unknown.
 
@@ -39,7 +39,7 @@ when the plague started the village of nightshade was built by the ratfolk in th
 - [[the church of Apollo]]
 - [[the residential sector]]
 - [[the mining sector]]
-- the abyss
+- [[the abyss]]
 - the commercial harbor
 - the business harbor
 - nightshade village
