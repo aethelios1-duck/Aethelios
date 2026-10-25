@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-15T16:29:20.469Z
-modified: 2026-10-16T17:31:15.521Z
+modified: 2026-10-25T01:36:55.760Z
 ---
 
 ---
@@ -14,7 +14,7 @@ Seeing that the beast could neither be destroyed nor tamed, the Gods assembled a
 
 When the beast roared, shattering the mountains, Zeus parted the storm clouds, and Apollo cast a beam of blinding light to pin the titan in place. Down from the heavens fell the Adamantine Spike, driven straight through the heart of Vorkan like a cosmic stake.
 
-The force of the strike buried the titan deep underground, collapsing the surrounding stone and carving out the colossal void known today as **the Abyss**.
+The force of the strike buried the titan deep underground, collapsing the surrounding stone and carving out the colossal void known today as **[[the abyss]]**.
 
 As the massive stake pierced the titan’s heart, a dead silence fell over the world. The absolute magic-nullifying properties of the Adamantine seized the titan's core. Its heart could no longer produce or pump mana. Deprived of its magical lifeblood, Vorkan fell into an endless, unyielding coma. Over centuries, the ambient pressure of the world fused the titan’s calcified mana and the bleeding edges of the celestial Adamantine stake into the deep, rich veins of metal that run through the walls of the Abyss today.
 
